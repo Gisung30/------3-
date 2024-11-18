@@ -4,7 +4,7 @@ grep("^[a-z]", c("apple", "Banana", "cherry"))
 # 숫자로 시작하는 문자열 찾기
 grep("^\\d", c("1apple", "Banana", "2cherry")) 
 
-# 특정 문자(괄호)로 시작하는 문자열 찾기wsd
+# 특정 문자(괄호)로 시작하는 문자열 찾기wsd asdas
 grep("^\\(", c("(test)", "no", "(hello)")) 
 
 
